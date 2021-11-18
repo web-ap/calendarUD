@@ -10791,7 +10791,7 @@ var mmin = Math.min;
 function Calendar(container, options) {
     options = util.extend(
         {
-            usageStatistics: true
+            usageStatistics: false
         },
         options
     );
