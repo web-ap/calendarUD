@@ -19685,13 +19685,13 @@ function Schedule() {
      * schedule background color
      * @type {string}
      */
-    this.bgColor = '#a1b56c';
+    this.bgColor = '#0d8cd0';
 
     /**
      * schedule background color when dragging it
      * @type {string}
      */
-    this.dragBgColor = '#a1b56c';
+    this.dragBgColor = '#0d8cd0';
 
     /**
      * schedule left border color
